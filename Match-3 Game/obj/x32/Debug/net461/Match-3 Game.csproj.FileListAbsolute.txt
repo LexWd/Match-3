@@ -1,0 +1,7 @@
+C:\Users\LxWd\Desktop\Match-Three\Match-3 Game\Match-3 Game\obj\x32\Debug\net461\Match-3 Game.csprojAssemblyReference.cache
+C:\Users\LxWd\Desktop\Match-Three\Match-3 Game\Match-3 Game\obj\x32\Debug\net461\Match-3 Game.exe.config
+C:\Users\LxWd\Desktop\Match-Three\Match-3 Game\Match-3 Game\obj\x32\Debug\net461\Match_3_Game.Resources.resources
+C:\Users\LxWd\Desktop\Match-Three\Match-3 Game\Match-3 Game\obj\x32\Debug\net461\Match-3 Game.csproj.GenerateResource.cache
+C:\Users\LxWd\Desktop\Match-Three\Match-3 Game\Match-3 Game\obj\x32\Debug\net461\Match-3 Game.csproj.CoreCompileInputs.cache
+C:\Users\LxWd\Desktop\Match-Three\Match-3 Game\Match-3 Game\obj\x32\Debug\net461\Match-3 Game.AssemblyInfoInputs.cache
+C:\Users\LxWd\Desktop\Match-Three\Match-3 Game\Match-3 Game\obj\x32\Debug\net461\Match-3 Game.AssemblyInfo.cs

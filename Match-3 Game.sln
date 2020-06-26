@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Match-3 Game", "Match-3 Game\Match-3 Game.csproj", "{585A3F91-381C-42BC-BA96-1BA9846E340E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{585A3F91-381C-42BC-BA96-1BA9846E340E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{585A3F91-381C-42BC-BA96-1BA9846E340E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{585A3F91-381C-42BC-BA96-1BA9846E340E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{585A3F91-381C-42BC-BA96-1BA9846E340E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+EndGlobal

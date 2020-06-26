@@ -1,0 +1,13 @@
+C:\Users\LxWd\Desktop\Match-Three\Match-3 Game\Match-3 Game\bin\Debug\netcoreapp2.1\Match-3 Game.deps.json
+C:\Users\LxWd\Desktop\Match-Three\Match-3 Game\Match-3 Game\bin\Debug\netcoreapp2.1\Match-3 Game.runtimeconfig.json
+C:\Users\LxWd\Desktop\Match-Three\Match-3 Game\Match-3 Game\bin\Debug\netcoreapp2.1\Match-3 Game.runtimeconfig.dev.json
+C:\Users\LxWd\Desktop\Match-Three\Match-3 Game\Match-3 Game\bin\Debug\netcoreapp2.1\Match-3 Game.dll
+C:\Users\LxWd\Desktop\Match-Three\Match-3 Game\Match-3 Game\bin\Debug\netcoreapp2.1\Match-3 Game.pdb
+C:\Users\LxWd\Desktop\Match-Three\Match-3 Game\Match-3 Game\obj\Debug\netcoreapp2.1\Match-3 Game.csprojAssemblyReference.cache
+C:\Users\LxWd\Desktop\Match-Three\Match-3 Game\Match-3 Game\obj\Debug\netcoreapp2.1\Match-3 Game.csproj.CoreCompileInputs.cache
+C:\Users\LxWd\Desktop\Match-Three\Match-3 Game\Match-3 Game\obj\Debug\netcoreapp2.1\Match-3 Game.AssemblyInfoInputs.cache
+C:\Users\LxWd\Desktop\Match-Three\Match-3 Game\Match-3 Game\obj\Debug\netcoreapp2.1\Match-3 Game.AssemblyInfo.cs
+C:\Users\LxWd\Desktop\Match-Three\Match-3 Game\Match-3 Game\obj\Debug\netcoreapp2.1\Match-3 Game.dll
+C:\Users\LxWd\Desktop\Match-Three\Match-3 Game\Match-3 Game\obj\Debug\netcoreapp2.1\Match-3 Game.pdb
+C:\Users\LxWd\Desktop\Match-Three\Match-3 Game\Match-3 Game\obj\Debug\netcoreapp2.1\Match-3 Game.csproj.GenerateResource.cache
+C:\Users\LxWd\Desktop\Match-Three\Match-3 Game\Match-3 Game\obj\Debug\netcoreapp2.1\Match_3_Game.Resources.resources
