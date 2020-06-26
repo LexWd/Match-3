@@ -63,7 +63,7 @@ namespace Match_3_Game.Content
             BackgroundForStats1 = new Texture ( $"{DirTexture}TopofTop.psd" ) ;
             BackgroundForStats2 = new Texture ( $"{DirTexture}TopofTop2.psd" ) ;
             BackgroundForGem    = new Texture ( $"{DirTexture}BackgroundForGems.jpg" ) ;
-            BackFaq             = new Texture ( $"{DirTexture}Top.psd" ) ;
+            BackFaq             = new Texture ( $"{DirTexture}FaQBackground.psd" ) ;
 
             CursorTexture = new Texture ( $"{DirTexture}Cursor.psd" ) ;
 

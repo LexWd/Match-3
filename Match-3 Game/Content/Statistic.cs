@@ -13,7 +13,7 @@ namespace Match_3_Game.Content
     {
         private static readonly string                      Path = $"{Content.DirStatistic}Statistic.json" ;
         public static           BindingList<StatisticModel> StatisticData ;
-        private static readonly Text []                     Top = new Text[ 10 ] ;
+        private static Text []                     Top = new Text[ 10 ] ;
 
         public static void AddRecord ( int score )
         {
@@ -26,7 +26,8 @@ namespace Match_3_Game.Content
         public static void Delete ( )
         {
             if ( StatisticData.Count <= 0 ) return ;
-            StatisticData.Clear () ;
+            StatisticData.Clear();
+            Top = new Text[10];
             Save ( StatisticData ) ;
         }
 
@@ -34,8 +35,7 @@ namespace Match_3_Game.Content
         {
             Read () ;
             Sort ( out var sortedListInstance ) ;
-            if ( StatisticData != null )
-                CreateTop ( sortedListInstance ) ;
+            CreateTop ( sortedListInstance ) ;
         }
 
         public static void Draw ( )
